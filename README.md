@@ -3,3 +3,7 @@
 
 > Le fichier HTML sera disponible uniquement sur ordinateur localement pour des solutions de tests.
 > L'optimisation Wii U sera à la Fin du projet.
+
+Le code sera allégé et optimisé pour l'interface web de la Wii U.
+
+
