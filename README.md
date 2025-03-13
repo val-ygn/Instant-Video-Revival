@@ -1,7 +1,8 @@
-# Le projet est abandonné en attente de plus d'images et d'archives pour se baser de cette interface
+# Le projet est abandonné en attente de plus d'images et d'archives afin de se baser sur cette interface
 
-# Instant-Video-Revival
-## Une renaissance du logiciel de streaming Amazon Instant Video sur la Wii U
+
+## Instant-Video-Revival
+### Une renaissance du logiciel de streaming Amazon Instant Video sur la Wii U
 
 
 >L'interface recrée d'Amazon Instant Video essaye de reprendre à l'identique l'interface typique d'Amazon en 2013.
